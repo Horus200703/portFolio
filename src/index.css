@@ -141,3 +141,16 @@ body {
 .nav-link:hover::after {
   width: 100%;
 }
+
+/* Profile photo float animation */
+@keyframes float {
+  0%   { transform: translateY(0px); }
+  50%  { transform: translateY(-14px); }
+  100% { transform: translateY(0px); }
+}
+
+/* Conic ring spin (used for profile photo border) */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
