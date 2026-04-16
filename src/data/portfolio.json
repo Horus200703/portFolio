@@ -1,0 +1,74 @@
+{
+  "personal": {
+    "name": "Diego Fernando Aponte Cardona",
+    "alias": "Horus",
+    "title": "Desarrollador Web Full Stack",
+    "subtitle": "Apasionado por construir experiencias web modernas y elegantes.",
+    "description": "Estudiante de desarrollo web con experiencia en proyectos reales. Me especializo en construir aplicaciones web desde cero, usando tecnologías modernas del frontend y backend.",
+    "avatar": "https://avatars.githubusercontent.com/u/Horus200703",
+    "location": "Colombia",
+    "available": true
+  },
+  "heroSlides": [
+    {
+      "id": 1,
+      "headline": "Hola, soy Diego 👋",
+      "sub": "Desarrollador Web Full Stack",
+      "description": "Construyo páginas web modernas, rápidas y responsivas desde cero.",
+      "cta": "Ver mis proyectos"
+    },
+    {
+      "id": 2,
+      "headline": "Código con propósito",
+      "sub": "React · Node.js · PHP · SQL",
+      "description": "Apasionado por las tecnologías web y por crear soluciones que impacten.",
+      "cta": "Conoce mis habilidades"
+    },
+    {
+      "id": 3,
+      "headline": "Siempre aprendiendo",
+      "sub": "Formación continua y proyectos reales",
+      "description": "Cada proyecto es una oportunidad para crecer y demostrar lo que sé hacer.",
+      "cta": "Contáctame"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "El Heraldo del Ciervo",
+      "description": "Sitio web de noticias inspirado en la estructura y diseño de El Tiempo. Desarrollado con HTML, CSS y JavaScript puro, enfocado en maquetación y diseño editorial web profesional.",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&h=350&fit=crop",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://elheraldo-del-ciervo.netlify.app",
+      "code": "https://github.com/Horus200703",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Taller JS Bucles",
+      "description": "Proyecto educativo que presenta ejercicios prácticos sobre bucles en JavaScript. Incluye soluciones documentadas de diferentes tipos de loops: for, while, do-while y for-of.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=350&fit=crop",
+      "tags": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://taller-js-bucles.netlify.app/",
+      "code": "https://github.com/Horus200703",
+      "featured": true
+    }
+  ],
+  "skills": [
+    { "id": 1, "name": "JavaScript", "icon": "SiJavascript", "level": 80, "color": "#f7df1e" },
+    { "id": 2, "name": "React", "icon": "SiReact", "level": 70, "color": "#61dafb" },
+    { "id": 3, "name": "PHP", "icon": "SiPhp", "level": 65, "color": "#777bb4" },
+    { "id": 4, "name": "Node.js", "icon": "SiNodedotjs", "level": 60, "color": "#339933" },
+    { "id": 5, "name": "Tailwind CSS", "icon": "SiTailwindcss", "level": 75, "color": "#06b6d4" },
+    { "id": 6, "name": "SQL", "icon": "SiMysql", "level": 65, "color": "#4479a1" },
+    { "id": 7, "name": "HTML5", "icon": "SiHtml5", "level": 90, "color": "#e34f26" },
+    { "id": 8, "name": "CSS3", "icon": "SiCss", "level": 85, "color": "#1572b6" },
+    { "id": 9, "name": "Git", "icon": "SiGit", "level": 70, "color": "#f05032" }
+  ],
+  "contact": {
+    "github": "https://github.com/Horus200703",
+    "email": "diegofernandoaponteaponte@gmail.com",
+    "whatsapp": "573159120444",
+    "linkedin": ""
+  }
+}
