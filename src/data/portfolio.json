@@ -52,6 +52,16 @@
       "demo": "https://taller-js-bucles.netlify.app/",
       "code": "https://github.com/Horus200703",
       "featured": true
+    },
+    {
+      "id": 3,
+      "title": "CardMatch",
+      "description": "CardMatch es un juego de memoria donde debes encontrar pares de cartas iguales en una cuadrícula 4x4. Voltea dos cartas por turno: si coinciden, ganas 20 puntos y permanecen descubiertas; si no coinciden, se ocultan y pierdes 5 puntos. ¡Completa todos los pares con la mayor puntuación posible!",
+      "image": "/cardmatch-screenshot.png",
+      "tags": ["PHP", "JavaScript", "HTML", "CSS"],
+      "demo": "https://cardmatch.adsocartago.com/VIEW/login.php",
+      "code": "https://github.com/Horus200703",
+      "featured": true
     }
   ],
   "skills": [
